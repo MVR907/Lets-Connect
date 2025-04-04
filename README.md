@@ -1,1 +1,2 @@
-# Lets-Connect
+# Lets Connect Frontend
+Built with React
